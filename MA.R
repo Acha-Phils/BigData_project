@@ -161,7 +161,6 @@ ggplot(penguins, aes(x = species, y = bill_depth_mm, fill = species)) +
   geom_boxplot()
 
 ###############################################################################
-#           A.  Unsupervised Learning
 #           1. PCA
 ###############################################################################
 # PCA
@@ -267,8 +266,8 @@ par(mfrow=c(1,1))
 
 ###############################################################################
 #             Unsupervised Learning
-#           2. Hierarchical Clustering              
-#           3. Center-based Clustering (K-Means)
+#           1. Hierarchical Clustering              
+#           2. Center-based Clustering (K-Means)
 ###############################################################################
 
 #     Cluster analysis (Agglomerative hierarchical and k-means)
