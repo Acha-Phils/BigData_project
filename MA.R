@@ -1,4 +1,6 @@
-
+##########################################################################
+# R project covering EDA, Unsupervised and Supervised Machine Learining  #
+##########################################################################
 
 # Libraries
 library(dplyr)          ; library(ggplot2)
