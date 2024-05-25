@@ -1,5 +1,5 @@
 
-setwd("~/Brunel Notes/MA5638 Big Data Analytics/Course work/New folder")
+
 # Libraries
 library(dplyr)          ; library(ggplot2)
 library(cluster)        ; library(tree)
