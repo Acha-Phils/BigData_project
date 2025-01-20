@@ -6,7 +6,7 @@
 - [Data preparation and exploratory data analysis](#data-preparation-and-exploratory-data-analysis)
 - [k-Means Clustering ](#k-means-clustering )
 - [Hierarchical Clustering](#hierarchical-clustering)
-- [Evaluation of the cluster methods discussed Conclusion](#evaluation-of-the-cluster-methods-discussed-and-conclusion)
+- [Evaluation of the cluster methods discussed and Conclusion](#evaluation-of-the-cluster-methods-discussed-and-conclusion)
 
 # Aim of the project 
 
