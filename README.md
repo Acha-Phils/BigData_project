@@ -86,7 +86,8 @@ Unlike k-Means clustering that group observations into k clusters in which each 
 **The algorithm of hierarchical cluster follows**; initialization where all data points are in a single cluster. The split step, where the data is split into clusters based on their proximity until each point is in its own cluster. The stopping step where the splitting process is stopped based on the distance threshold. Figure 6 display the result of the clustering analysis performed using the above mentioned clustering
 algorithm.
 
-![hcluster](https://github.com/user-attachments/assets/9c732814-c1e1-4eac-925c-fd649d5b1cc8)
+![hclustering](https://github.com/user-attachments/assets/ee4ee658-1c53-4d58-8c1b-873f20cc2c9f)
+
 
 ### Evaluation of the cluster methods discussed and Conclusion
 
